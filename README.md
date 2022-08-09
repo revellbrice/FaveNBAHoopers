@@ -1,0 +1,2 @@
+# FaveNBAHoopers
+Exploring NBA API
